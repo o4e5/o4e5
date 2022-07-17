@@ -35,6 +35,6 @@ Also, I am very interested in user information protection and accessibility.</h4
 
 <h3 align="center"><b>📞 Contect 📞</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/ALT%233767-%2320232a?style=for-the-badge&logo=discord&logoColor=white"/></a> &nbsp</p>
+<img src="https://img.shields.io/badge/𝟘𝟜𝕖𝟝%233767-%2320232a?style=for-the-badge&logo=discord&logoColor=white"/></a> &nbsp</p>
 
 </br>
