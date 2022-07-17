@@ -1,3 +1,9 @@
+</br>
+<h3 align="center"><b>Hi there 👋</b></h3>
+<h4 align="center">I am a middle school student fullstack developer ALT!<br/><br/>
+I like simple designs and website.<br/>
+Also, I am very interested in user information protection and accessibility.</h4>
+</br>
 
 </br>
 
@@ -6,13 +12,6 @@
 <img src="https://img.shields.io/badge/𝟘𝟜𝕖𝟝%233767-%2320232a?style=for-the-badge&logo=discord&logoColor=white"/></a> &nbsp</p>
 
 </br
-
-</br>
-<h3 align="center"><b>Hi there 👋</b></h3>
-<h4 align="center">I am a middle school student fullstack developer ALT!<br/><br/>
-I like simple designs and website.<br/>
-Also, I am very interested in user information protection and accessibility.</h4>
-</br>
 
 <h3 align="center"><b>🪛 Tools 🪛</b></h3>
 <p align="center">
